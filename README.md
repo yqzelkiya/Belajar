@@ -4,5 +4,5 @@
 
 -Gambar
 
-![Img 1](screenshot/PERISAI.png)
+![Img 1](Screenshot/PERISAI.png)
 
