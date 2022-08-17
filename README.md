@@ -2,7 +2,7 @@
 
 ## Tutorial menambahkan gambar
 
-- Gambar
+-Gambar
 
 ![Img 1](screenshot/PERISAI.png)
 
